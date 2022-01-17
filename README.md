@@ -1,3 +1,3 @@
 # MyShooting
 ## 2020-04
-2D shooting game
+2D shooting game by Unity
